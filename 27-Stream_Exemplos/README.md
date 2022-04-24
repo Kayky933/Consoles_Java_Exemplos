@@ -1,0 +1,3 @@
+# Como usar o projeto
+
+Na mesma pasta onde esse arquivo README.md que você esta lendo esta ha um arquivo chamado Products.txt, nele existe uma lista de produtos com o preço, para usar esse exeplo você deve colocar o caminho desse arquivo e o nome(Exemplo: C:\26-Etream_Exemplo\Products.txt) assim que inicar o programa, ou se quiser pode criar o seu proprio arquivo .txt com os padrões que estão no Products.txt que no caso é: Nome de algum produto, Preço

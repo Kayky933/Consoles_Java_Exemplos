@@ -1,0 +1,3 @@
+#Como usar esse projeto
+Para usar esse projeto você precisa executalo com algum compilador de sua preferência, após isso você deve colocar um caminho de um arquivo .txt com o nome do arquivo .tct no final exemplo: "C:\temp\exemplo.txt".
+Após fazer isso ele lera o arquivo e dira quantos usuários logaram no sistema, estarei deixando um arquivo chamado in.txt dentro do src do projeto para que vocês possam usar como exeplo, ele tem o nome e uma data escrita em ISO 8601
