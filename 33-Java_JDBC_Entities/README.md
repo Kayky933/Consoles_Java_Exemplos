@@ -5,6 +5,7 @@ Neste projeto foi ultilizado um banco de dados local o MySql, para usar esse pro
 
 create database coursejdbc;<br><br>
 use coursejdbc;<br><br>
+
 CREATE TABLE department (<br>
   Id int(11) NOT NULL AUTO_INCREMENT,<br>
   Name varchar(60) DEFAULT NULL,<br>
@@ -16,7 +17,7 @@ CREATE TABLE seller (<br>
   Name varchar(60) NOT NULL,<br>
   Email varchar(100) NOT NULL,<br>
   BirthDate datetime NOT NULL,<br>
-  BaseSalary double NOT NULL,<br>
+  BasiSalary double NOT NULL,<br>
   DepartmentId int(11) NOT NULL,<br>
   PRIMARY KEY (Id),<br>
   FOREIGN KEY (DepartmentId) REFERENCES department (id)<br>
